@@ -11,6 +11,9 @@ A workout tracker built with mongodb and mongoose that utilizes MongoAtlas is de
 - Add exercise and complete when done
 - To view the statistics on the last week of your workouts go to the dashboard in the nav bar
 
+##Important Links
+https://salty-crag-81525.herokuapp.com/
+
 ## Images
 
 ![screenshot of deployed site](exampPics\workoutTrackerPicture.PNG)

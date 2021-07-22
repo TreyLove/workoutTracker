@@ -13,5 +13,5 @@ A workout tracker built with mongodb and mongoose that utilizes MongoAtlas is de
 
 ## Images
 
-![screeshot of deployed site](exampPics\workoutTrackerPicture.PNG)
-![screeshot of deployed site](exampPics\workoutTrackerPicture2.PNG)
+![screenshot of deployed site](exampPics\workoutTrackerPicture.PNG)
+![screenshot of deployed site](exampPics\workoutTrackerPicture2.PNG)
